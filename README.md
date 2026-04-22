@@ -53,10 +53,7 @@ Você deve:
 
 ## Como enviar sua entrega
 
-Você pode escolher uma destas opções:
-
-- abrir um PR neste repositório com o código alterado e o documento
-- enviar por email o código alterado e o documento solicitado
+Envie sua entrega por email.
 
 ## O que será avaliado
 
