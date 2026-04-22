@@ -45,10 +45,18 @@ Você deve:
 2. Alterar o **prompt** do agente para refletir esse novo papel.
 3. Alterar ou substituir a **ferramenta** atual para apoiar esse caso de uso.
 4. Garantir que a conversa com o agente faça sentido no terminal.
-5. Entregar um documento explicando:
+5. Entregar o **código alterado** com a sua customização funcionando.
+6. Entregar um documento explicando:
    - por que você decidiu criar esse agente
    - o que você entendeu durante o processo de criação
    - quais decisões tomou ao customizar prompt e ferramenta
+
+## Como enviar sua entrega
+
+Você pode escolher uma destas opções:
+
+- abrir um PR neste repositório com o código alterado e o documento
+- enviar por email o código alterado e o documento solicitado
 
 ## O que será avaliado
 
@@ -168,4 +176,4 @@ Você não precisa alterar esse arquivo para concluir o teste. Seu foco deve est
 - Não é necessário usar LangGraph Studio para concluir o desafio.
 - Não é necessário criar várias ferramentas. Uma ferramenta bem pensada já é suficiente.
 - Seu foco deve estar em personalização com critério, não em complexidade.
-- Sua entrega deve incluir o código funcionando e o documento com a reflexão pedida na seção "Sua tarefa".
+- Sua entrega deve incluir o código alterado e o documento com a reflexão pedida na seção "Sua tarefa".
